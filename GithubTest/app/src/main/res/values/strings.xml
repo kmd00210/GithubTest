@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubTest</string>
+    <string name="activity_back">返回(Back)</string>
+    <string name="activity_no2">新畫面</string>
+</resources>
